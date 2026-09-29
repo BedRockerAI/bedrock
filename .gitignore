@@ -11,3 +11,4 @@ demo/img/
 .pytest_cache/
 datasets/*
 !datasets/bench_ownership.json
+node_modules/
